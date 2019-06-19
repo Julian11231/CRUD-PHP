@@ -1,4 +1,4 @@
-# CRUD CON PHP
+# CRUD with PHP
 ## User crud with php and MYSQL
 ## Atributes:
 ### Nombre - Name 
