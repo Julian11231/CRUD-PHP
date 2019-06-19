@@ -3,6 +3,6 @@
 ## Atributes:
 ### Nombre - Name 
 ### Apellido - Lastname
-### Cédula - Identification
+### Cédula - Identification card
 ### Correo - Email
 ### Género - Gender
