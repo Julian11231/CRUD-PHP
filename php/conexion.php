@@ -2,7 +2,7 @@
 header("Content-Type: text/html; charset=utf-8");
 $hostname = "localhost";
 $user = "root";
-$pass = "";
+$pass = "julian.andrade99";
 
 #DB UNIVERSIDAD
 #TABLA ESTUDIANTE
